@@ -1,4 +1,4 @@
-# Front end trends
+# Front-end trends
 
 ## CSS resets:
   - [normalize.css](http://necolas.github.io/normalize.css/)
@@ -20,3 +20,6 @@
 
 ## CSS animations:
   - [Animate.css](https://daneden.github.io/animate.css/)
+
+## HTML5 Templates:
+  - [HTML5 Boilerplate](https://html5boilerplate.com/)
