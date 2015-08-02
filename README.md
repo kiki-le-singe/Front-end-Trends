@@ -8,6 +8,7 @@
   - [Sass](http://sass-lang.com/)
 
 ## SASS libraries:
+  - [compass](http://compass-style.org/)
   - [Bourbon](http://bourbon.io/)
   - [Bourbon NEAT](http://neat.bourbon.io/)
   - [Susy](http://susy.oddbird.net/)
