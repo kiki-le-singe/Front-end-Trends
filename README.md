@@ -34,3 +34,10 @@
 
 ## Browsers:
   - [Browser Statistics](http://www.w3schools.com/browsers/browsers_stats.asp)
+
+## Polyfill IE:
+  - [Respond](https://github.com/scottjehl/Respond)
+  > A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
+
+  - [html5shiv](https://github.com/afarkas/html5shiv)
+  > This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
